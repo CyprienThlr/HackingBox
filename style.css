@@ -1,0 +1,318 @@
+/* Reset some basic elements */
+body, h1, h2, p, nav, footer {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F1F0E8;
+    color: #102C57;
+    overflow-y: scroll; /* Permettre le défilement vertical */
+    scrollbar-width: none; /* Masquer la largeur de la scrollbar pour Firefox */
+}
+
+body::-webkit-scrollbar {
+    display: none; /* Masquer la scrollbar pour Chrome, Safari, Edge */
+}
+
+/* Header styles */
+header {
+    background-color: rgb(16, 44, 87);
+    color: #fff;
+    padding: 20px 0;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header nav {
+    display: flex;
+}
+
+header nav a {
+    padding: 10px 5px;
+    color: #fff;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: 550;
+    font-size: 1.1rem;
+    margin-right: 50px;
+    position: relative;
+    transition: all .2s;
+}
+
+header nav a:hover {
+    color: #8fc2dc;
+}
+
+/* Main section styles */
+main {
+    padding: 50px;
+}
+
+.hero {
+    padding: 150px;
+    text-align: left;
+    border-radius: 5px;
+    max-width: 1000px;
+    margin: 50px, 40px;
+}
+
+.hero h2 {
+    font-size: 4em;
+    margin-bottom: 10px;
+    cursor: default;
+}
+
+.hero p {
+    font-size: 1.2em;
+    margin-bottom: 60px;
+}
+
+.hero button {
+    border: 0;
+    background: transparent;
+    color: white;
+    position: relative;
+    overflow: hidden;
+    padding: 20px 50px;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 1.5em;
+    box-shadow: 10px -10px 25px 0 rgba(22, 121, 171, .2),
+    -10px 10px 25px 0 rgba(16, 44, 87, .5);
+    transition: all .2s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero button::after {
+    content: "";
+    width: 450px;
+    height: 450px;
+    background: linear-gradient(225deg, #102C57 0%, #1679ab 50%, #102C57 100%);
+    position: absolute;
+    top: -50px;
+    left: -100px;
+    z-index: -1;
+    transition: all .5s;
+}
+
+.hero button:hover::after {
+    transform: rotate(150deg);
+}
+
+.hero button:hover {
+    transform: scale(105%);
+    box-shadow: 10px -10px 25px 0 rgba(22, 121, 171, .2),
+    -10px 10px 25px 0 rgba(16, 44, 87, .5);
+}
+
+.hero img {
+    max-width: 800px;
+    max-height: 800px;
+    margin-left: 750px;
+    margin-top: -280px;
+}
+
+.discover {
+    margin-top: -10px;
+    margin-bottom: 500px;
+    padding: 50px;
+}
+
+.discover .title {
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.discover p {
+    margin-bottom: 150px;
+}
+
+.discover .abo {
+    display: flex;
+    justify-content: space-around;
+    color: #fff;
+}
+
+.discover .abo .container {
+    border: solid 1px #102C57;
+    border-radius: 15px;
+    padding: 40px;
+    width: 200px;
+    height: 280px;;
+    background-color: #102C57;
+    color: #fff;
+    font-size: larger;
+    box-shadow: -10px 10px 25px 0 rgba(16, 44, 87, .4),
+    10px -10px 25px 0 rgba(16, 44, 87, .5);
+}
+
+.discover .abo .txt {
+    height: 100px;
+    font-size: medium;
+    width: 200px;
+}
+
+
+.discover .abo .txt .yes {
+    color: #A5DD9B;
+}
+
+.discover .abo .txt .no {
+    text-decoration: line-through;
+    color: #EE4E4E;
+}
+
+.discover .abo .txt li {
+    list-style-type: circle;
+    margin-left: -25px;
+    margin-bottom: 10px;
+}
+
+.discover .abo .btn {
+    color: #fff;
+    width: 150px;
+    background: linear-gradient(225deg, #1679ab 0%, #102C57 100%);
+    border: solid 1px #102C57;
+    padding: 15px 25px;
+    border-radius: 10px;
+    margin-top: 60px;
+    margin-left:25px;
+    cursor: pointer;
+    transition: all .3s;
+    font-size: large;
+    box-shadow: -10px 10px 25px 0 rgba(0, 0, 0, .2),
+    10px -10px 25px 0 rgba(0, 0, 0, .2);
+}
+
+.discover .abo .btn:hover {
+    transition: all .3s;
+    transform: scale(105%);
+    box-shadow: -10px 10px 25px 0 rgba(0, 0, 0, .4),
+    10px -10px 25px 0 rgba(0, 0, 0, .4);
+}
+
+/* Footer styles */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #102C57;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Popup styles */
+.popup {
+    display: none; /* Caché par défaut */
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Fond semi-transparent */
+    z-index: 999; /* Assure que le popup soit au-dessus de tout */
+    overflow: auto; /* Ajoute le défilement si nécessaire */
+}
+
+.popup-content {
+    background-color: #fefefe;
+    margin: 10% auto;
+    padding: 30px;
+    border: 1px solid #102C57;
+    width: 80%;
+    max-width: 400px;
+    position: relative;
+    border-radius: 15px;
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.close:hover,
+.close:focus {
+    color: #102C57;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.popup form {
+    margin-top: 20px;
+    max-width: 400px;
+    /* margin: 0 auto; */
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.popup form label {
+    display: block;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.popup form input {
+    width: 90%;
+    padding: 8px;
+    margin-bottom: 5px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+.popup form .button {
+    max-width: 150px;
+    padding: 10px 15px;
+    background-color: #102C57;
+    color: #fff;
+    font-size: 1rem;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all .2s;
+}
+
+.popup form .button:hover {
+    transform: scale(105%);
+    box-shadow: -10px 10px 25px 0 rgba(0, 0, 0, .2),
+    10px -10px 25px 0 rgba(0, 0, 0, .2);
+}
+
+.password-container {
+    position: relative;
+}
+
+.password-container input {
+    width: 100%;
+    padding-right: 30px; /* Space for the eye icon */
+}
+
+.eye-icon {
+    position: absolute;
+    right: 25px;
+    top: 50%;
+    transform: translateY(-60%);
+    cursor: pointer;
+    font-size: 1.2em;
+}

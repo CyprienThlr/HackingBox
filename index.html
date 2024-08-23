@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FMA</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+</head>
+<body>
+
+    <header>
+        <div class="header-container">
+            <h1>FMA</h1>
+            <nav id="navbar">
+                <a href="index.html">Home</a>
+                <a href="#discover" class="nav-features">Discover</a>
+                <a href="#services">Services</a>
+            </nav>
+        </div>
+        
+    </header>
+
+    <main>
+        <section class="hero">
+            <h2>Welcome to Finance Management</h2>
+            <p>Manage your finances and communicate with others securely.</p>
+            <button onclick="openSignupPopup()">Get Started</button>
+            <img src="Images/1.webp" alt="Image">
+        </section><br>
+
+        <section id="discover" class="discover">
+            <h2 class="title">Discover</h2><br>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error ipsum similique, eos doloribus sit dignissimos aperiam ad dolor molestiae molestias sunt fugiat.
+            </p>
+
+            <div class="abo">
+
+                <div class="container">
+                    <h2>Standard</h2><br>
+                    <div class="txt">
+                        <ul>
+                            <li class="yes">Manage your finances</li><br>
+                            <li class="no">Develop your business</li><br>
+                            <li class="no">Discover all features</li>
+                        </ul>
+                    </div>
+                    <button class="btn" onclick="openSignupPopup()">Free</button>
+                </div>
+                <div class="container">
+                    <h2>Business</h2><br>
+                    <div class="txt">
+                        <ul>
+                            <li class="yes">Manage your finances</li><br>
+                            <li class="yes">Develop your business</li><br>
+                            <li class="no">Discover all features</li>
+                        </ul>
+                    </div>
+                    <button class="btn">7$/month</button>
+                </div>
+                <div class="container">
+                    <h2>Premium</h2><br>
+                    <div class="txt">
+                        <ul>
+                            <li class="yes">Manage your finances</li><br>
+                            <li class="yes">Develop your business</li><br>
+                            <li class="yes">Discover all features</li>
+                        </ul>
+                    </div>
+                    <button class="btn">10$/month</button>
+                </div>
+
+            </div>
+
+        </section>
+    </main>
+
+    <!-- <footer>
+        <p>&copy; 2024 Finance Management Agency</p>
+    </footer> -->
+
+    <!-- Popup Signup -->
+    <div id="signupPopup" class="popup">
+        <div class="popup-content">
+            <span class="close" onclick="closeSignupPopup()">&times;</span>
+            <h2>Sign up</h2>
+            <form action="#" method="POST">
+                <label for="username">Name:</label>
+                <input type="username" id="username" name="username" required><br>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required><br>
+                <label for="password">Password:</label>
+                <div class="password-container">
+                    <input type="password" id="password" name="password" required>
+                    <span class="eye-icon" onclick="togglePasswordVisibility()">
+                        👁️
+                    </span>
+                </div><br><br>
+                <input onclick="openDashboard()" type="submit" class="button" value="Sign Up">
+                
+            </form>
+        
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const navbar = document.getElementById('navbar');
+            const define = document.getElementById('define');
+
+            // Fonction pour ajouter un onglet à la navbar
+            function addTab(tabName) {
+                const a = document.createElement('a');
+                a.href = 'dashboard.html';
+                a.textContent = tabName;
+                navbar.appendChild(a);
+            }
+
+            // Charger les onglets depuis localStorage
+            const savedTabs = JSON.parse(localStorage.getItem('tabs')) || [];
+            savedTabs.forEach(tabName => {
+                addTab(tabName);
+            });
+        });
+    </script>
+
+    <script>
+        const username = document.getElementById('username');
+        const usernameTxt = document.getElementById('usernameTxt');
+        const define = document.getElementById('define');
+
+        // Ajout de l'événement 'input' à l'input
+        username.addEventListener('input', () => {
+            // Mise à jour du contenu de la balise <h2> avec la valeur de l'input
+            usernameTxt.textContent = username.value;
+        });
+
+        // Ajout de l'événement 'click' au bouton
+        define.addEventListener('click', () => {
+            // Stockage de la valeur de l'input dans localStorage
+            localStorage.setItem('word', username.value);
+            // Ouverture de la nouvelle page
+            window.open('dashboard.html', '_blank');
+        });
+    </script>
+    </script>
+
+    <script>
+        function openDashboard() {
+            event.preventDefault();
+            // Vérifie si tous les champs du formulaire sont remplis
+            if (validateForm()) {
+                // Si le formulaire est valide, ouvrir l'onglet
+                window.location.href = "dashboard.html";
+            } else {
+                // Si le formulaire n'est pas valide, afficher un message d'erreur ou autre action
+                alert("Veuillez remplir tous les champs du formulaire.");
+            }
+        }
+
+        function validateForm() {
+            // Récupère les champs du formulaire
+            var username = document.getElementById("username").value;
+            var email = document.getElementById("email").value;
+            var password = document.getElementById("password").value;
+
+            // Vérifie que tous les champs sont remplis
+            if (username.trim() === "" || email.trim() === "" || password.trim() === "") {
+                return false; // Retourne false si au moins un champ est vide
+            }
+            return true; // Retourne true si tous les champs sont remplis
+        }
+
+        function openSignupPopup() {
+            document.getElementById('signupPopup').style.display = 'block';
+        }
+
+        function closeSignupPopup() {
+            document.getElementById('signupPopup').style.display = 'none';
+        }
+
+        function togglePasswordVisibility() {
+            var passwordField = document.getElementById('password');
+            if (passwordField.type === 'password') {
+                passwordField.type = 'text';
+            } else {
+                passwordField.type = 'password';
+            }
+        }
+    </script>
+
+    <script>
+       function smoothScroll(target, offset = 30, duration = 500) {
+            const targetElement = document.querySelector(target);
+            const targetPosition = targetElement.getBoundingClientRect().top + window.scrollY - offset;
+            const startPosition = window.scrollY;
+            const distance = targetPosition - startPosition;
+            let startTime = null;
+
+            function animation(currentTime) {
+                if (startTime === null) startTime = currentTime;
+                const timeElapsed = currentTime - startTime;
+                const run = ease(timeElapsed, startPosition, distance, duration);
+                window.scrollTo(0, run);
+                if (timeElapsed < duration) requestAnimationFrame(animation);
+            }
+
+            function ease(t, b, c, d) {
+                t /= d / 2;
+                if (t < 1) return c / 2 * t * t + b;
+                t--;
+                return -c / 2 * (t * (t - 2) - 1) + b;
+            }
+
+            requestAnimationFrame(animation);
+        }
+
+        document.querySelector('.nav-features').addEventListener('click', function(e) {
+            e.preventDefault();
+            smoothScroll('#discover');
+        });
+    </script>
+
+</body>
+</html>

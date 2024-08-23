@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<script type="application/json">{"utility":"piwik","siteID":"645","sitePath":["digital-finance-platform.ec.europa.eu"],"instance":"ec.europa.eu"}</script>
+<script type="application/json">{"utility":"cck","url":"https:\/\/ec.europa.eu\/info\/cookies_en"}</script>
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/fisma_theme/images/favicons/ec/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="icon" href="/themes/custom/fisma_theme/images/favicons/ec/favicon.svg" type="image/svg+xml" />
+<link rel="apple-touch-icon" href="/themes/custom/fisma_theme/images/favicons/ec/favicon.png" />
+<link rel="canonical" href="https://digital-finance-platform.ec.europa.eu/home" />
+<link rel="shortlink" href="https://digital-finance-platform.ec.europa.eu/node/387" />
+
+    <title>Home | EU Digital Finance Platform</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_l69hpeS3WCWa9k8ZM2Xu45sMs4mu29rx1toUKCZXcDQ.css?delta=0&amp;language=en&amp;theme=fisma&amp;include=eJxFjVsSgjAMRTdU6ZI6KVyhY9p0kqCye3EQ-Txn7kOQfEFFHKV2aWieuGQl3RLGIEgvZBdhi5OunXg4-WaV1FloggbbzFFjJsO3cyzi7dBGnOw5X7ZraR7uZa_HmSUThz3IpT3Ohx-GTkqzUl_-35cZ1tbXzMUWTB-Fe0zs" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_jAX9qrNXRl6jMPHoFGENl_vy637x-bKgcLbzc5Vv0jE.css?delta=1&amp;language=en&amp;theme=fisma&amp;include=eJxFjVsSgjAMRTdU6ZI6KVyhY9p0kqCye3EQ-Txn7kOQfEFFHKV2aWieuGQl3RLGIEgvZBdhi5OunXg4-WaV1FloggbbzFFjJsO3cyzi7dBGnOw5X7ZraR7uZa_HmSUThz3IpT3Ohx-GTkqzUl_-35cZ1tbXzMUWTB-Fe0zs" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_42G6N9GKqmj_LGmY6GfW0GYYZ64By24BCsJ83LW2k_s.css?delta=2&amp;language=en&amp;theme=fisma&amp;include=eJxFjVsSgjAMRTdU6ZI6KVyhY9p0kqCye3EQ-Txn7kOQfEFFHKV2aWieuGQl3RLGIEgvZBdhi5OunXg4-WaV1FloggbbzFFjJsO3cyzi7dBGnOw5X7ZraR7uZa_HmSUThz3IpT3Ohx-GTkqzUl_-35cZ1tbXzMUWTB-Fe0zs" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_9uZ2DFHTnWIalaEedBM-uA0QStI-CWhxax90D5b1B08.css?delta=3&amp;language=en&amp;theme=fisma&amp;include=eJxFjVsSgjAMRTdU6ZI6KVyhY9p0kqCye3EQ-Txn7kOQfEFFHKV2aWieuGQl3RLGIEgvZBdhi5OunXg4-WaV1FloggbbzFFjJsO3cyzi7dBGnOw5X7ZraR7uZa_HmSUThz3IpT3Ohx-GTkqzUl_-35cZ1tbXzMUWTB-Fe0zs" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_WdP2XEqXkXAe0K7Rd11KSoeZHq0j4ZYSBeY05RuUdOc.css?delta=4&amp;language=en&amp;theme=fisma&amp;include=eJxFjVsSgjAMRTdU6ZI6KVyhY9p0kqCye3EQ-Txn7kOQfEFFHKV2aWieuGQl3RLGIEgvZBdhi5OunXg4-WaV1FloggbbzFFjJsO3cyzi7dBGnOw5X7ZraR7uZa_HmSUThz3IpT3Ohx-GTkqzUl_-35cZ1tbXzMUWTB-Fe0zs" />
+
+    
+  </head>
+  <body class="language-en ecl-typography path-frontpage page-node-type-landing-page">
+        <a href="#main-content" class="ecl-skip-link"  id="skip-id">Skip to main content</a>
+
+    <script type="application/json">{"utility":"globan","theme":"dark","logo":true,"link":true,"mode":false}</script>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+      <header
+  class="ecl-site-header"
+  data-ecl-auto-init="SiteHeader"
+  data-ecl-has-menu>
+  
+  	<div class="ecl-site-header-standardised__header">
+		    <div class="ecl-site-header__header">
+      <div class="ecl-site-header__container ecl-container">
+        <div class="ecl-site-header__top" data-ecl-site-header-top>
+              <a
+    class="ecl-link ecl-link--standalone ecl-site-header__logo-link"
+    href="https://commission.europa.eu/index_en"
+    aria-label="Home - European Commission"
+  >
+                            <picture class="ecl-picture ecl-site-header__picture" title="European&#x20;Commission"><source 
+                  srcset="/themes/contrib/oe_theme/dist/ec/images/logo/positive/logo-ec--en.svg"
+                          media="(min-width: 996px)"
+                      ><img 
+          class="ecl-site-header__logo-image"
+              src="/themes/contrib/oe_theme/dist/ec/images/logo/positive/logo-ec--en.svg"
+              alt="European Commission logo" 
+      /></picture>  </a>
+
+
+          <div class="ecl-site-header__action">
+              
+  <div class="ecl-site-header-standardised__login-container"><a
+      class="ecl-button ecl-button--ghost ecl-site-header-standardised__login-toggle"
+      href="/user/login">
+
+      <svg class="ecl-icon ecl-icon--s ecl-site-header-standardised__icon" focusable="false" aria-hidden="true">
+        <use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons/sprites/icons.svg#log-in"></use>
+      </svg>
+      Log in</a></div>
+
+<div class="ecl-site-header-standardised__search-container"><a
+    class="ecl-button ecl-button--ghost ecl-site-header-standardised__search-toggle" href="#"
+    data-ecl-search-toggle="true" aria-controls="search-form-id" aria-expanded="false">
+    <svg class="ecl-icon ecl-icon--s" focusable="false" aria-hidden="true">
+      <use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons/sprites/icons.svg#search"></use>
+    </svg>
+    Search</a>
+
+  <div id="block-openeuropawebtoolseuropasearch"
+    class="ecl-search-form ecl-site-header-standardised__search"
+    data-ecl-search-form="" id="search-form-id">
+    
+        
+          <script type="application/json">{"service":"search","lang":"en","results":"out"}</script>
+
+      </div>
+
+</div>
+
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+  
+	</div>
+  	<div class="ecl-site-header-standardised__banner">
+		<div class="ecl-container">
+			<div class="ecl-site-header-standardised__site-name">EU Digital Finance Platform</div>
+		</div>
+	</div>
+	          <div class="ecl-site-header__banner">
+        <div class="ecl-container"></div>
+      </div>
+          <div id="block-fisma-main-navigation">
+  
+    
+      
+      
+                                                                      
+                                                                                        
+                
+                                                                                                          
+                
+                
+          
+      <nav
+  class="ecl-menu ecl-menu--group1"
+  data-ecl-menu
+  data-ecl-menu-max-lines="2"
+  data-ecl-auto-init="Menu"
+  aria-expanded="false"
+  role="navigation"
+   aria-label="Site&#x20;navigation"
+><div class="ecl-menu__overlay" data-ecl-menu-overlay></div><div class="ecl-container ecl-menu__container"><a
+      class="ecl-link ecl-link--standalone ecl-menu__open"
+      href=""
+      data-ecl-menu-open
+    ><svg
+  class="ecl-icon ecl-icon--s"
+  focusable="false"
+  aria-hidden="true"
+  ><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons/sprites/icons.svg#hamburger"></use></svg>Menu</a><section class="ecl-menu__inner" data-ecl-menu-inner role="application" aria-label="Menu"><header class="ecl-menu__inner-header"><button
+          class="ecl-menu__close ecl-button ecl-button--text"
+          type="submit"
+          data-ecl-menu-close
+        ><span class="ecl-menu__close-container ecl-button__container"><svg
+  class="ecl-icon ecl-icon--s ecl-button__icon ecl-button__icon--before"
+  focusable="false"
+  aria-hidden="true"
+   data-ecl-icon><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons/sprites/icons.svg#close-filled"></use></svg><span
+              class="ecl-button__label"
+              data-ecl-label="true">Close</span></span></button><div class="ecl-menu__title">Menu</div><button
+          data-ecl-menu-back
+          type="submit"
+          class="ecl-menu__back ecl-button ecl-button--text"
+        ><span class="ecl-button__container"><svg
+  class="ecl-icon ecl-icon--xs ecl-icon--rotate-270 ecl-button__icon ecl-button__icon--before"
+  focusable="false"
+  aria-hidden="true"
+   data-ecl-icon><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons/sprites/icons.svg#corner-arrow"></use></svg><span
+              class="ecl-button__label"
+              data-ecl-label
+            >Back</span></span></button></header><button class="ecl-button ecl-button--ghost ecl-menu__item ecl-menu__items-previous" type="button"  data-ecl-menu-items-previous tabindex="-1"><span class="ecl-button__container"><svg
+  class="ecl-icon ecl-icon--s ecl-icon--rotate-270 ecl-button__icon ecl-button__icon--before"
+  focusable="false"
+  aria-hidden="true"
+   data-ecl-icon><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons/sprites/icons.svg#corner-arrow"></use></svg></span></button><button class="ecl-button ecl-button--ghost ecl-menu__item ecl-menu__items-next" type="button"  data-ecl-menu-items-next tabindex="-1"><span class="ecl-button__container"><svg
+  class="ecl-icon ecl-icon--s ecl-icon--rotate-90 ecl-button__icon ecl-button__icon--before"
+  focusable="false"
+  aria-hidden="true"
+   data-ecl-icon><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons/sprites/icons.svg#corner-arrow"></use></svg></span></button><ul class="ecl-menu__list" data-ecl-menu-list><li class="ecl-menu__item" data-ecl-menu-item id="ecl-menu-item-355651063-0"><a href="/" class="ecl-menu__link" data-ecl-menu-link id="ecl-menu-item-355651063-0-link">Home</a></li><li class="ecl-menu__item ecl-menu__item--has-children" data-ecl-menu-item data-ecl-has-children aria-haspopup aria-expanded="false" id="ecl-menu-item-355651063-1"><a href="/data-hub" class="ecl-menu__link" data-ecl-menu-link id="ecl-menu-item-355651063-1-link">Data Hub</a><button class="ecl-button ecl-button--primary ecl-menu__button-caret" type="button"  data-ecl-menu-caret aria-label="Access&#x20;item&#x27;s&#x20;children" aria-describedby="ecl-menu-item-355651063-1-link" aria-expanded="false"><span class="ecl-button__container"><svg
+  class="ecl-icon ecl-icon--xs ecl-icon--rotate-180 ecl-button__icon ecl-button__icon--after"
+  focusable="false"
+  aria-hidden="true"
+   data-ecl-icon><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons/sprites/icons.svg#corner-arrow"></use></svg></span></button><div
+    class="ecl-menu__mega"
+    data-ecl-menu-mega
+  ><ul class="ecl-menu__sublist"><li
+        class="ecl-menu__subitem"
+        data-ecl-menu-subitem
+      ><a
+          href="/data-hub/what-is"
+          class="ecl-menu__sublink"
+        >What is the Data Hub?</a></li><li
+        class="ecl-menu__subitem"
+        data-ecl-menu-subitem
+      ><a
+          href="/data-hub/what-kind-of-data-available"
+          class="ecl-menu__sublink"
+        >Synthetic data</a></li><li
+        class="ecl-menu__subitem"
+        data-ecl-menu-subitem
+      ><a
+          href="/data-hub/datasets"
+          class="ecl-menu__sublink"
+        > View datasets</a></li></ul></div></li><li class="ecl-menu__item ecl-menu__item--has-children" data-ecl-menu-item data-ecl-has-children aria-haspopup aria-expanded="false" id="ecl-menu-item-355651063-2"><a href="/cross-border-services" class="ecl-menu__link" data-ecl-menu-link id="ecl-menu-item-355651063-2-link">Cross-border services</a><button class="ecl-button ecl-button--primary ecl-menu__button-caret" type="button"  data-ecl-menu-caret aria-label="Access&#x20;item&#x27;s&#x20;children" aria-describedby="ecl-menu-item-355651063-2-link" aria-expanded="false"><span class="ecl-button__container"><svg
+  class="ecl-icon ecl-icon--xs ecl-icon--rotate-180 ecl-button__icon ecl-button__icon--after"
+  focusable="false"
+  aria-hidden="true"
+   data-ecl-icon><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons/sprites/icons.svg#corner-arrow"></use></svg></span></button><div
+    class="ecl-menu__mega"
+    data-ecl-menu-mega
+  ><ul class="ecl-menu__sublist"><li
+        class="ecl-menu__subitem"
+        data-ecl-menu-subitem
+      ><a
+          href="/cross-border-services/facilitators"
+          class="ecl-menu__sublink"
+        >European Forum for Innovation Facilitators</a></li><li
+        class="ecl-menu__subitem"
+        data-ecl-menu-subitem
+      ><a
+          href="/cross-border-services/licensing"
+          class="ecl-menu__sublink"
+        >Licensing</a></li><li
+        class="ecl-menu__subitem"
+        data-ecl-menu-subitem
+      ><a
+          href="/cross-border-services/cross-border-testing"
+          class="ecl-menu__sublink"
+        >Cross-border testing</a></li><li
+        class="ecl-menu__subitem"
+        data-ecl-menu-subitem
+      ><a
+          href="/cross-border-services/ebsi"
+          class="ecl-menu__sublink"
+        >Regulatory sandbox</a></li></ul></div></li><li class="ecl-menu__item" data-ecl-menu-item id="ecl-menu-item-355651063-3"><a href="/eu-fintech-map" class="ecl-menu__link" data-ecl-menu-link id="ecl-menu-item-355651063-3-link">Fintech mapping</a></li><li class="ecl-menu__item ecl-menu__item--has-children" data-ecl-menu-item data-ecl-has-children aria-haspopup aria-expanded="false" id="ecl-menu-item-355651063-4"><a href="/news" class="ecl-menu__link" data-ecl-menu-link id="ecl-menu-item-355651063-4-link">News</a><button class="ecl-button ecl-button--primary ecl-menu__button-caret" type="button"  data-ecl-menu-caret aria-label="Access&#x20;item&#x27;s&#x20;children" aria-describedby="ecl-menu-item-355651063-4-link" aria-expanded="false"><span class="ecl-button__container"><svg
+  class="ecl-icon ecl-icon--xs ecl-icon--rotate-180 ecl-button__icon ecl-button__icon--after"
+  focusable="false"
+  aria-hidden="true"
+   data-ecl-icon><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons/sprites/icons.svg#corner-arrow"></use></svg></span></button><div
+    class="ecl-menu__mega"
+    data-ecl-menu-mega
+  ><ul class="ecl-menu__sublist"><li
+        class="ecl-menu__subitem"
+        data-ecl-menu-subitem
+      ><a
+          href="https://commissioners.ec.europa.eu/mairead-mcguinness_en"
+          class="ecl-menu__sublink"
+        >Commissioner McGuinness</a></li><li
+        class="ecl-menu__subitem"
+        data-ecl-menu-subitem
+      ><a
+          href="https://finance.ec.europa.eu/news_en"
+          class="ecl-menu__sublink"
+        >Financial regulation news</a></li><li
+        class="ecl-menu__subitem"
+        data-ecl-menu-subitem
+      ><a
+          href="https://finance.ec.europa.eu/digital-finance/what-digital-finance_en"
+          class="ecl-menu__sublink"
+        >Latest in digital finance</a></li><li
+        class="ecl-menu__subitem"
+        data-ecl-menu-subitem
+      ><a
+          href="https://finance.ec.europa.eu/eu-finance-podcast-future-finance_en"
+          class="ecl-menu__sublink"
+        >EU Finance Podcast</a></li><li
+        class="ecl-menu__subitem"
+        data-ecl-menu-subitem
+      ><a
+          href="/observatory/policy-corner/political-legislative-initiatives"
+          class="ecl-menu__sublink"
+        >Legislative initiatives</a></li></ul></div></li><li class="ecl-menu__item" data-ecl-menu-item id="ecl-menu-item-355651063-5"><a href="/actions" class="ecl-menu__link" data-ecl-menu-link id="ecl-menu-item-355651063-5-link">Call to action</a></li><li class="ecl-menu__item" data-ecl-menu-item id="ecl-menu-item-355651063-6"><a href="/events" class="ecl-menu__link" data-ecl-menu-link id="ecl-menu-item-355651063-6-link">Events</a></li></ul></section></div></nav>
+
+
+  </div>
+
+
+  
+</header>
+
+  
+  <main class="ecl-u-pb-xl" id="main-content">
+    <div class="ecl-container">
+      <div class="ecl-row">
+        <div class="ecl-col-s-12">
+                                <div>
+    <div data-drupal-messages-fallback class="hidden"></div><div id="block-fisma-main-page-content" class="ecl-u-mb-l">
+  
+    
+      <article>
+
+  
+    
+
+  
+  <div>
+      <div class="ecl-u-mb-2xl">
+      
+  
+
+<div>
+  <section class="ecl-banner ecl-banner--text-box ecl-banner--l ecl-banner--full-width"><picture class="ecl-picture ecl-banner__picture"><img
+          class="ecl-banner__image"
+              src="https://digital-finance-platform.ec.europa.eu/sites/default/files/styles/oe_theme_full_width/public/2023-09/banner%402x.png?itok=5DgCl-H8"
+              alt="EU Digital Finance Platform"
+      /></picture><div class="ecl-container"><div class="ecl-banner__container"><div class="ecl-banner__content"><div class="ecl-banner__title"><span class="ecl-banner__title-text">EU Digital Finance Platform</span></div><p class="ecl-banner__description"><span class="ecl-banner__description-text">Building connections and sharing data</span></p><div class="ecl-banner__cta"><a
+  href="/data-hub"
+  class="ecl-link ecl-link--cta ecl-link--icon ecl-link--icon-after ecl-banner__link-cta"
+  
+><span class="ecl-link__label">Discover the platform</span><svg
+  class="ecl-icon ecl-icon--xs ecl-icon--rotate-90 ecl-link__icon"
+  focusable="false"
+  aria-hidden="true"
+  ><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons/sprites/icons.svg#corner-arrow"></use></svg></a></div></div></div></div></section>
+</div>
+
+
+  </div>
+  <div class="ecl-u-mb-2xl">
+    
+
+
+    
+  
+
+              
+
+  <h2 class='ecl-u-type-heading-2'>A collaborative space for EU’s finance sector</h2>
+
+<article class="ecl-featured-item"><div class="ecl-featured-item__container ecl-featured-item__container--right"><div class="ecl-featured-item__item"><div class="ecl-media-container ecl-featured-item__media_container"><figure class="ecl-media-container__figure"><picture class="ecl-picture ecl-media-container__picture"><img 
+          class="ecl-media-container__media"
+              src="https://digital-finance-platform.ec.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2023-09/about_img%402x.png?itok=rmKzyZO3"
+              alt="EU’s finance sector banner" 
+      /></picture></figure></div></div><div class="ecl-featured-item__item"><div class="ecl-featured-item__title">Providing the tools to innovate</div><div class="ecl-featured-item__description"><div class="ecl"><p class="text-align-justify">Welcome to the EU Digital Finance Platform: a collaborative space bringing together innovative financial firms and national supervisors to support innovation in the EU’s financial system. This platform offers practical tools designed to facilitate the scaling up of innovative financial firms across the EU.</p><p class="text-align-justify">​In September 2020, the European Commission adopted the Digital Finance Strategy to foster a more competitive and innovative European financial sector. The EU Digital Finance Platform initiative is part of this effort to support innovation in finance and build a true single market for digital financial services.&nbsp;</p><p class="text-align-justify">The EU Digital Finance Platform features the new Data Hub, cross-border services, a fintech mapping, an overview of the latest policy news, calls to action and events.</p></div></div></div></div></article>
+
+  </div>
+  <div class="ecl-u-mb-2xl">
+    
+<div class="ecl-content-item-block"><div class="ecl-row"><div class="ecl-content-item-block__item ecl-u-mb-l ecl-col-12 ecl-col-l-4 "><article class="ecl-card"><picture class="ecl-picture ecl-card__picture" aria-label="Data&#x20;hub&#x20;illustration" data-ecl-picture-link><img 
+          class="ecl-card__image"
+              src="/sites/default/files/2023-09/datahub%402x_0.png"
+              alt="Data hub illustration" 
+      /></picture><div class="ecl-card__body"><div
+  class="ecl-content-block ecl-card__content-block"
+  
+  data-ecl-auto-init="ContentBlock"
+  data-ecl-content-block
+><h1 class="ecl-content-block__title"data-ecl-title-link><a
+  href="/data-hub"
+  class="ecl-link ecl-link--standalone"
+  
+>Data Hub</a></h1></div></div></article></div><div class="ecl-content-item-block__item ecl-u-mb-l ecl-col-12 ecl-col-l-4 "><article class="ecl-card"><picture class="ecl-picture ecl-card__picture" aria-label="Cross&#x20;border&#x20;services&#x20;illustration" data-ecl-picture-link><img 
+          class="ecl-card__image"
+              src="/sites/default/files/2023-09/crossborder_services%402x.png"
+              alt="Cross border services illustration" 
+      /></picture><div class="ecl-card__body"><div
+  class="ecl-content-block ecl-card__content-block"
+  
+  data-ecl-auto-init="ContentBlock"
+  data-ecl-content-block
+><h1 class="ecl-content-block__title"data-ecl-title-link><a
+  href="/cross-border-services"
+  class="ecl-link ecl-link--standalone"
+  
+>Cross-border services</a></h1></div></div></article></div><div class="ecl-content-item-block__item ecl-u-mb-l ecl-col-12 ecl-col-l-4 "><article class="ecl-card"><picture class="ecl-picture ecl-card__picture" aria-label="Fintech&#x20;mapping&#x20;illustration" data-ecl-picture-link><img 
+          class="ecl-card__image"
+              src="/sites/default/files/2023-09/fintech_mapping%402x.png"
+              alt="Fintech mapping illustration" 
+      /></picture><div class="ecl-card__body"><div
+  class="ecl-content-block ecl-card__content-block"
+  
+  data-ecl-auto-init="ContentBlock"
+  data-ecl-content-block
+><h1 class="ecl-content-block__title"data-ecl-title-link><a
+  href="/eu-fintech-map"
+  class="ecl-link ecl-link--standalone"
+  
+>Fintech mapping</a></h1></div></div></article></div><div class="ecl-content-item-block__item ecl-u-mb-l ecl-col-12 ecl-col-l-4 last-item-column"><article class="ecl-card"><picture class="ecl-picture ecl-card__picture" aria-label="News&#x20;illustration" data-ecl-picture-link><img 
+          class="ecl-card__image"
+              src="/sites/default/files/2023-09/news%402x.png"
+              alt="News illustration" 
+      /></picture><div class="ecl-card__body"><div
+  class="ecl-content-block ecl-card__content-block"
+  
+  data-ecl-auto-init="ContentBlock"
+  data-ecl-content-block
+><h1 class="ecl-content-block__title"data-ecl-title-link><a
+  href="/news"
+  class="ecl-link ecl-link--standalone"
+  
+>News</a></h1></div></div></article></div><div class="ecl-content-item-block__item ecl-u-mb-l ecl-col-12 ecl-col-l-4 last-item-column"><article class="ecl-card"><picture class="ecl-picture ecl-card__picture" aria-label="Call&#x20;to&#x20;action&#x20;illustration" data-ecl-picture-link><img 
+          class="ecl-card__image"
+              src="/sites/default/files/2023-09/calltoaction%402x.png"
+              alt="Call to action illustration" 
+      /></picture><div class="ecl-card__body"><div
+  class="ecl-content-block ecl-card__content-block"
+  
+  data-ecl-auto-init="ContentBlock"
+  data-ecl-content-block
+><h1 class="ecl-content-block__title"data-ecl-title-link><a
+  href="/actions"
+  class="ecl-link ecl-link--standalone"
+  
+>Call to action</a></h1></div></div></article></div><div class="ecl-content-item-block__item ecl-u-mb-l ecl-col-12 ecl-col-l-4 last-item-column last-item"><article class="ecl-card"><picture class="ecl-picture ecl-card__picture" aria-label="Events&#x20;illustrations" data-ecl-picture-link><img 
+          class="ecl-card__image"
+              src="/sites/default/files/2023-09/events%402x.png"
+              alt="Events illustrations" 
+      /></picture><div class="ecl-card__body"><div
+  class="ecl-content-block ecl-card__content-block"
+  
+  data-ecl-auto-init="ContentBlock"
+  data-ecl-content-block
+><h1 class="ecl-content-block__title"data-ecl-title-link><a
+  href="/events"
+  class="ecl-link ecl-link--standalone"
+  
+>Events</a></h1></div></div></article></div></div></div>
+
+  </div>
+  <div class="ecl-u-mb-2xl">
+      
+  
+
+<div>
+  <section class="ecl-banner ecl-banner--text-box ecl-banner--l"><picture class="ecl-picture ecl-banner__picture"><img
+          class="ecl-banner__image"
+              src="https://digital-finance-platform.ec.europa.eu/sites/default/files/styles/oe_theme_full_width/public/2023-09/contactus_img%402x.png?itok=zMggvHg1"
+              alt="Contact us banner"
+      /></picture><div class="ecl-container"><div class="ecl-banner__container"><div class="ecl-banner__content"><div class="ecl-banner__title"><span class="ecl-banner__title-text">Let&#039;s get in touch</span></div><p class="ecl-banner__description"><span class="ecl-banner__description-text">Send us your message by clicking here:</span></p><div class="ecl-banner__cta"><a
+  href="/contact"
+  class="ecl-link ecl-link--cta ecl-link--icon ecl-link--icon-after ecl-banner__link-cta"
+  
+><span class="ecl-link__label">Contact us</span><svg
+  class="ecl-icon ecl-icon--xs ecl-icon--rotate-90 ecl-link__icon"
+  focusable="false"
+  aria-hidden="true"
+  ><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons/sprites/icons.svg#corner-arrow"></use></svg></a></div></div></div></div></section>
+</div>
+
+
+  </div>
+
+  </div>
+
+</article>
+
+  </div>
+
+  </div>
+
+                  </div>
+      </div>
+    </div>
+  </main>
+
+        <div id="block-footerblock">
+  
+    
+      <div class="ecl"><footer class="ecl-footer-standardised"><div class="ecl-container ecl-footer-standardised__container"><div class="ecl-footer-standardised__row"><div class="ecl-footer-standardised__column"><div class="ecl-footer-standardised__section"><h2 class="ecl-footer-standardised__title"><a class="ecl-link ecl-link--standalone ecl-footer-standardised__title-link" href="/homepage">EU Digital Finance Platform</a></h2><div class="ecl-footer-standardised__description">This site is managed by the Directorate-General for Financial Stability, Financial Services and Capital Markets Union</div></div></div><div class="ecl-footer-standardised__column"><div class="ecl-footer-standardised__section"><h2 class="ecl-footer-standardised__title ecl-footer-standardised__title--separator">Contact us</h2><ul class="ecl-footer-standardised__list"><li class="ecl-footer-standardised__list-item"><a class="ecl-link ecl-link--standalone ecl-footer-standardised__link" href="https://digital-finance-platform.ec.europa.eu/contact" aria-label="Link to Contact information of the DG">Contact us</a></li><li class="ecl-footer-standardised__list-item"><a class="ecl-link ecl-link--standalone ecl-footer-standardised__link" aria-label="Link to Contact information of the DG" href="/accessibility-statement">Accessibility</a></li></ul></div><div class="ecl-footer-standardised__section"><h2 class="ecl-footer-standardised__title ecl-footer-standardised__title--separator">Follow us on</h2><ul class="ecl-site-footer__list ecl-site-footer__list--inline"><li class="ecl-site-footer__list-item"><svg class="ecl-icon ecl-icon--xs ecl-link__icon" focusable="false" aria-hidden="true"><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons-social-media/sprites/icons-social-media.svg#twitter-negative"></use></svg><a class="ecl-link ecl-link--standalone ecl-link--icon ecl-link--icon-before ecl-site-footer__link" href="https://twitter.com/EU_Finance"><span class="ecl-link__label ecl-u-ml-xs">Twitter</span>&nbsp;</a></li><li class="ecl-site-footer__list-item"><svg class="ecl-icon ecl-icon--xs ecl-link__icon" focusable="false" aria-hidden="true"><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons-social-media/sprites/icons-social-media.svg#youtube-negative"></use></svg><a class="ecl-link ecl-link--standalone ecl-link--icon ecl-link--icon-before ecl-site-footer__link" href="https://www.youtube.com/user/dgmarkt"><span class="ecl-link__label ecl-u-ml-xs">YouTube</span>&nbsp;</a></li><li class="ecl-site-footer__list-item"><svg class="ecl-icon ecl-icon--xs ecl-link__icon" focusable="false" aria-hidden="true"><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons-social-media/sprites/icons-social-media.svg#linkedin-negative"></use></svg><a class="ecl-link ecl-link--standalone ecl-link--icon ecl-link--icon-before ecl-site-footer__link" href="https://www.linkedin.com/showcase/eu-economy-finance"><span class="ecl-link__label ecl-u-ml-xs">EU Economy and Finance</span>&nbsp;</a></li><li class="ecl-site-footer__list-item"><svg class="ecl-icon ecl-icon--xs ecl-link__icon" focusable="false" aria-hidden="true"><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons-social-media/sprites/icons-social-media.svg#linkedin-negative"></use></svg><a class="ecl-link ecl-link--standalone ecl-link--icon ecl-link--icon-before ecl-site-footer__link" href="https://be.linkedin.com/in/john-berrigan-31131778"><span class="ecl-link__label ecl-u-ml-xs">Director-General John Berrigan</span>&nbsp;</a></li><li class="ecl-site-footer__list-item"><a class="ecl-link ecl-link--standalone ecl-site-footer__link" href="https://ec.europa.eu/info/finance-newsletter_en">Finance Newsletter</a></li><li class="ecl-site-footer__list-item"><a class="ecl-link ecl-link--standalone ecl-site-footer__link" href="/eu-finance-podcast-future-finance_en">EU Finance Podcast</a></li></ul></div></div><div class="ecl-footer-standardised__column"><div class="ecl-footer-standardised__section"><h2 class="ecl-footer-standardised__title ecl-footer-standardised__title--separator">About us</h2><ul class="ecl-footer-standardised__list"><li class="ecl-footer-standardised__list-item"><a class="ecl-link ecl-link--standalone ecl-footer-standardised__link" href="/privacy-statement " aria-label="Link to Information about the DG">Privacy statement</a></li></ul></div><div class="ecl-footer-standardised__section"><h2 class="ecl-footer-standardised__title ecl-footer-standardised__title--separator">Related sites</h2><ul class="ecl-footer-standardised__list"><li class="ecl-footer-standardised__list-item"><a class="ecl-link ecl-link--standalone ecl-footer-standardised__link" href="https://ec.europa.eu/info/business-economy-euro/banking-and-finance/digital-finance_en" aria-label="Link to Related link 1">Digital finance</a></li><li class="ecl-footer-standardised__list-item"><a class="ecl-link ecl-link--standalone ecl-footer-standardised__link" href="https://ec.europa.eu/info/business-economy-euro/banking-and-finance_en" aria-label="Link to Related link 2">Finance</a></li></ul></div></div></div><div class="ecl-footer-standardised__row"><div class="ecl-footer-standardised__column"><div class="ecl-footer-standardised__section"><a class="ecl-link ecl-link--standalone ecl-footer-standardised__logo-link" href="https://ec.europa.eu/info/index_en" aria-label="European Commission"><img class="ecl-site-header-standardised__logo-image ecl-site-header-standardised__logo-image-desktop" src="/themes/contrib/oe_theme/dist/ec/images/logo/negative/logo-ec--en.svg" data-entity-uuid="" data-entity-type="" alt="European Commission" title="European Commission"></a><h2 class="ecl-footer-standardised__title"><a class="ecl-link ecl-link--standalone ecl-footer-standardised__title-link" href="https://ec.europa.eu/info/index_en">European Commission</a></h2></div></div><div class="ecl-footer-standardised__column"><div class="ecl-footer-standardised__section ecl-footer-standardised__section--split-list"><ul class="ecl-footer-standardised__list"><li class="ecl-footer-standardised__list-item"><a class="ecl-link ecl-link--standalone ecl-footer-standardised__link" href="https://ec.europa.eu/info/about-european-commission/contact_en" aria-label="Link to Contact the European Commission">Contact the European Commission</a></li><li class="ecl-footer-standardised__list-item"><a class="ecl-link ecl-link--standalone ecl-link--icon ecl-link--icon-after ecl-footer-standardised__link" href="https://european-union.europa.eu/contact-eu/social-media-channels_en#/search?page=0&amp;institutions=european_commission"><span class="ecl-link__label">Follow the European Commission on social media</span></a><svg class="ecl-icon ecl-icon--xs ecl-link__icon" aria-hidden="true" focusable="false"><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons/sprites/icons.svg#external"></use></svg></li><li class="ecl-footer-standardised__list-item"><a class="ecl-link ecl-link--standalone ecl-footer-standardised__link" href="https://ec.europa.eu/info/resources-partners_en">Resources for partners</a></li></ul></div></div><div class="ecl-footer-standardised__column"><div class="ecl-footer-standardised__section ecl-footer-standardised__section--split-list"><ul class="ecl-footer-standardised__list"><li class="ecl-footer-standardised__list-item"><a class="ecl-link ecl-link--standalone ecl-footer-standardised__link" href="https://ec.europa.eu/info/languages-our-websites_en" aria-label="Link to Languages on our websites">Languages on our websites</a></li><li class="ecl-footer-standardised__list-item"><a class="ecl-link ecl-link--standalone ecl-footer-standardised__link" href="https://ec.europa.eu/info/cookies_en" aria-label="Link to Cookies">Cookies</a></li><li class="ecl-footer-standardised__list-item"><a class="ecl-link ecl-link--standalone ecl-footer-standardised__link" href="https://ec.europa.eu/info/privacy-policy_en" aria-label="Link to Privacy policy">Privacy policy</a></li><li class="ecl-footer-standardised__list-item"><a class="ecl-link ecl-link--standalone ecl-footer-standardised__link" href="https://ec.europa.eu/info/legal-notice_en" aria-label="Link to Legal notice">Legal notice</a></li></ul></div></div></div></div></footer></div>
+
+  </div>
+
+
+  
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/387","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"data":{"extlink":{"extTarget":true,"extTargetNoOverride":false,"extNofollow":true,"extNoreferrer":true,"extFollowNoOverride":true,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"user":{"uid":0,"permissionsHash":"29b5d3a8e23277062cb04b3b5d12ea0de7ced64beda4aa620dbcc8eab6ee51b0"}}</script>
+<script src="/sites/default/files/js/js_k5PPLnQ5-OTtpDPEDFtL-SbmRIdAVFd8rbJdUNFlyOg.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=fisma&amp;include=eJxFjVsSgjAMRTdU6ZI6KVyhY9p0kqCye3EQ-Txn7kOQfEFFHKV2aWieuGQl3RLGIEgvZBdhi5OunXg4-WaV1FloggbbzFFjJsO3cyzi7dBGnOw5X7ZraR7uZa_HmSUThz3IpT3Ohx-GTkqzUl_-35cZ1tbXzMUWTB-Fe0zs"></script>
+<script src="https://webtools.europa.eu/load.js" defer></script>
+<script src="/sites/default/files/js/js_UegLMruCwyDJS2kKgGevZe87QC47SKStJ0fH92muSe8.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=fisma&amp;include=eJxFjVsSgjAMRTdU6ZI6KVyhY9p0kqCye3EQ-Txn7kOQfEFFHKV2aWieuGQl3RLGIEgvZBdhi5OunXg4-WaV1FloggbbzFFjJsO3cyzi7dBGnOw5X7ZraR7uZa_HmSUThz3IpT3Ohx-GTkqzUl_-35cZ1tbXzMUWTB-Fe0zs"></script>
+
+  </body>
+</html>
